@@ -6,7 +6,7 @@ subtitle: "Quick! Register!"
 summary: "Just one month to go before the 2024 Battle! Register, and tell all your friends!"
 authors: [af]
 tags: [2024]
-categories: [2024, annuncio]
+categories: [2024, announcement]
 date: 2023-12-03T16:05:08+01:00
 lastmod: 2023-12-03T16:05:08+01:00
 featured: false
@@ -32,6 +32,6 @@ Dear snowballers,
 just one month to go before the Great Snowball Fight 2024 takes place!
 Isn't it exhilarating!?!?
 
-APAZAF warmly recommends to [register](/register), so that the organisation can be spotless (as it always is, ca va sans dire).
+APAZAF warmly recommends to [register](/register), so that the organisation can be spotless (as it always is, ça va sans dire).
 
 For any question on accomodation and transport feel free to [contact us](/contact) or head over to the [Telegram group](https://t.me/joinchat/UsNhFbmVl6W_Odyz)!

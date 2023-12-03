@@ -32,6 +32,6 @@ Cari palladinevisti,
 manca un solo mese alla Grande Battaglia di Palle di Neve 2024!
 Non è emozionante!?!?
 
-APAZAF raccomanda caldamente di [iscriversi](/it/register), di modo che l'organizzazione possa essere puntuale ed efficace (come sempre, ca va sans dire).
+APAZAF raccomanda caldamente di [iscriversi](/it/register), di modo che l'organizzazione possa essere puntuale ed efficace (come sempre, ça va sans dire).
 
 Per qualsiasi dubbio relativo al pernotto o ai trasporti, non esitate a [contattarci](/it/contact) o a porlo sul [gruppo Telegram](https://t.me/joinchat/UsNhFbmVl6W_Odyz)!
