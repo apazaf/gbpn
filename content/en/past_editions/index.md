@@ -1,4 +1,4 @@
 +++
-title= "Landing Page"  # Add a page title.
+title= "Past editions"  # Add a page title.
 type= "widget_page"  # Page type is a Widget Page
 +++

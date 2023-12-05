@@ -1,7 +1,7 @@
 +++
 share= false
+title = "Cos'è?"
 +++
-# Cos'è?
 Come da tradizione, APAZAF organizza una amichevole Grande Battaglia di Palle di Neve (GBPN) all'inizio dell'anno nuovo.
 La battaglia procede secondo delle semplici [regole](/it/rules), alla base è "cattura la bandiera".
 Come ogni anno, la battaglia si svolgerà al [Bivacco Menegazzi](https://goo.gl/maps/CRMbn2kRX38G78UF9), un bucolico bivacco con tutte le caratteristiche desiderabili: è al contempo facile da raggiungere e sufficientemente in alto (1737 m s.l.m.) da essere ben fornito di neve.

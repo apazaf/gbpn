@@ -1,9 +1,9 @@
 +++
 share = false
+title = "What's this?"
 +++
 
 
-# What's this?
 As is traditional, APAZAF organises a friendly snowball fight (Grande Battaglia di Palle di Neve in italian, in short GBPN) at the beginning of the new year.
 The fight follows a simple set of [rules](/rules), in the "capture the flag" style.  
 Like every year, the fight takes place at the [Bivacco Menegazzi](https://goo.gl/maps/CRMbn2kRX38G78UF9), a beautiful bivouac which has the desiderable characteristics of being both easy to reach and positioned at an elevation of 1737 m, where snow is often plentiful.  
