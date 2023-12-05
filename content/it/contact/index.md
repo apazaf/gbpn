@@ -1,6 +1,6 @@
 ---
-title: "Contacts"  # Add a page title.
-summary: "Contacts"  # Add a page description.
+title: "Contatti"  # Add a page title.
+summary: "Contatti"  # Add a page description.
 type: "widget_page"  # Page type is a Widget Page
 ---
 

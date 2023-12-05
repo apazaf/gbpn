@@ -1,8 +1,7 @@
 +++
 share = false
+title = "Situazione neve"
 +++
-
-# Situazione neve
 
 Potete verificare la situazione neve attuale consultando la stazione meteo di Malga Losch sul sito dell'[ARPAV](https://www.arpa.veneto.it/bollettini/meteo/h24/img00/Graf_390.htm?sens=LIVNEVE), che si trova vicino al luogo della battaglia, alla stessa altezza e con la stessa esposizione.
 [Qui](https://www.arpa.veneto.it/bollettini/meteo60gg/Staz_390.htm) trovate il rapporto meteo degli ultimi 60 giorni. Il grafico di ieri è qui:

@@ -1,8 +1,7 @@
 +++
 share = false
+title = "Snow status"
 +++
-
-# Snow status
 
 You can verify the current snow status by checking the values reported by the Malga Losch weather station from [ARPAV](https://www.arpa.veneto.it/bollettini/meteo/h24/img00/Graf_390.htm?sens=LIVNEVE), located close to the battlesite, at the same height and exposition.  
 [Here](https://www.arpa.veneto.it/bollettini/meteo60gg/Staz_390.htm) you can find the weather table for the last 60 days. The graph for yesterday is here reported for convenience:
