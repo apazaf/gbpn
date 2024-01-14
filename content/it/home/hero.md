@@ -5,13 +5,12 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 5  # Order that this section will appear.
 
-title = """La Grande Battaglia di Palle di Neve 2024
-
-si terrà **mercoledì 3 gennaio 2024**!
+title = """**La Grande Battaglia di Palle di Neve 2024**
+si è tenuta con successo mercoledì 3 gennaio!
 """
 
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
-hero_media = ""
+# hero_media = "hero-academic.png"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -39,28 +38,23 @@ hero_media = ""
 # Call to action links (optional).
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
-[cta]
-  url = "/it/register"
-  label = "Iscriviti!"
-  icon_pack = "fas"
-  icon = "snowflake"
-  
-[cta_alt]
-  url = "/it/details"
-  label = "Scopri di più"
+# [cta]
+#   url = "/it/register"
+#   label = "Iscriviti!"
+#   icon_pack = "fas"
+#   icon = "snowflake"
   
 # [cta_alt]
-#   url = "/it/2023_after"
+#   url = "/it/details"
 #   label = "Scopri di più"
+  
+[cta]
+  url = "/galleries/2024/"
+  label = "Guarda le foto e i video!"
 
-#[cta]
-#  url = "/it/post/2023_announcement"
-#  label = "Leggi l'annuncio"
-  
-#[cta_alt]
-#  url = "/it/register"
-#  label = "Iscriviti!"
-  
+[cta_alt]
+  url = "/post/2024_after"
+  label = "Leggi il resoconto"
 +++
 
-Come da tradizione millenaria, la prossima edizione della Grande Battaglia di Palle di Neve si terrà al [Bivacco Menegazzi](https://goo.gl/maps/CRMbn2kRX38G78UF9) all'inizio dell'anno nuovo.
+Come da tradizione millenaria, l'edizione 2024 si è svolta al [Bivacco Menegazzi](https://goo.gl/maps/CRMbn2kRX38G78UF9), nel cuore delle Dolomiti, all'inizio dell'anno nuovo.

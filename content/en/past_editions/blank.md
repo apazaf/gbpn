@@ -13,9 +13,15 @@ title = ""
   
 +++
 
-## The Great Snowball fight is an ancient tradition, dating back to 2013.
+## The Great Snowball fight: an ancient tradition
 
+Since 2013, APAZAF has been organising the Great Snowball Fight at the Menegazzi Bivouac, a glorious tradition that has been passed down from generation to generation.
+
+{{% callout note %}}
 To give you an idea of what it feels like from the inside, [here](/galleries) are some pictures from past editions.
+{{% /callout %}}
+
+### They say about us
 
 Below you will also find an interview of two GBPN fans, whom we shall denote by John Doe and Valanga90.
 May their insight enlighten you!
