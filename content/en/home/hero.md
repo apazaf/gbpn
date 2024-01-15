@@ -5,13 +5,12 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 5  # Order that this section will appear.
 
-title = """The Great Snowball Fight 2024
-
-will be held on **Wednesday, 3 January, 2024**!
+title = """**The Great Snowball Fight 2024**
+took place on Wednesday, 3 January!
 """
 
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
-hero_media = "hero-academic.png"
+# hero_media = "hero-academic.png"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -39,28 +38,23 @@ hero_media = "hero-academic.png"
 # Call to action links (optional).
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
+# [cta]
+#   url = "/register"
+#   label = "Register!"
+#   icon_pack = "fas"
+#   icon = "snowflake"
+
+# [cta_alt]
+#   url = "/details"
+#   label = "Learn more"
+  
 [cta]
-  url = "/register"
-  label = "Register!"
-  icon_pack = "fas"
-  icon = "snowflake"
+  url = "/galleries/2024/"
+  label = "Check out the photos and videos!"
 
 [cta_alt]
-  url = "/details"
-  label = "Learn more"
-  
-# [cta_alt]
-#   url = "/2023_after"
-#   label = "Find out more" 
-
-#[cta]
-#  url = "/post/2023_announcement"
-#  label = "Read the announcement"
-  
-#[cta_alt]
-#  url = "/register"
-#  label = "Register now!"
-  
+  url = "/post/2024_after"
+  label = "Read the report"
 +++
 
-Following its millenary tradition, the next edition of the Great Snowball Fight will take place at the [Bivacco Menegazzi](https://goo.gl/maps/CRMbn2kRX38G78UF9) at the beginning of the new year.
+Following its millenary tradition, the 2024 edition took place at the [Bivacco Menegazzi](https://goo.gl/maps/CRMbn2kRX38G78UF9), in the heart of the Dolomites, at the beginning of the new year.

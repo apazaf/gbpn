@@ -15,12 +15,17 @@ title = ""
 
 +++
 
-## La Grande Battaglia di Palle di Neve è una tradizione risalente al 2013.
+## La Grande Battaglia di Palle di Neve: una tradizione antica
 
-Per darvi un'idea di cosa è la Grande Battaglia, [qui](/it/galleries) potete trovare alcune immagini delle edizioni passate.
+Sin dal lontano 2013, APAZAF organizza la Grande Battaglia di Palle di Neve al Bivacco Menegazzi, una gloriosa tradizione tramandata di generazione in generazione.
 
+{{% callout note %}}
+Per darvi un'idea di cosa è la Grande Battaglia, nella [galleria](/it/galleries) potete trovare alcune immagini delle edizioni passate.
+{{% /callout %}}
 
-Per darvi un'idea di come sia parteciparvi, 
+### Dicono di noi
+
+Per darvi un'idea di come sia partecipare alla Grande Battaglia,
 abbiamo intervistato due aficionados della GBPN, che indicheremo con gli pseudonimi Aulo Agerio e Valanga90.
 
 #### A quante edizioni della GBPN hai partecipato?
