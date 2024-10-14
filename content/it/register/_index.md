@@ -21,4 +21,4 @@ L'iscrizione non è vincolante: ti consigliamo di inscriverti anche se vuoi solo
 Registrandoti, accetti che APAZAF ti mandi occasionali aggiornamenti via mail riguardo alla GBPN.
 Puoi disiscriverti in qualsiasi momento [scrivendo ad APAZAF](/it/contact/).
 
-<iframe src="https://forms.gle/XizB426GznVVL7Bw9/viewform?embedded=true" width="100%" height="1606" frameborder="0" marginheight="0" marginwidth="0">Caricamento…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfricSb6YoHWvWHszEgju4W3LyTZ2fGF6bGL_5-yS5TlFHoZwA/viewform?embedded=true" width="100%" height="1606" frameborder="0" marginheight="0" marginwidth="0">Caricamento…</iframe>
