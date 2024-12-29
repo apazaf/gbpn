@@ -7,8 +7,8 @@ summary: "La neve non è tanta, ma siamo fiduciosi! Abbiamo già un sacco di reg
 authors: [af]
 tags: [2025]
 categories: [2025, update]
-date: 2024-12-29T10:05:08+01:00
-lastmod: 2024-12-29T10:05:08+01:00
+date: 2024-12-29T08:05:08+01:00
+lastmod: 2024-12-29T08:05:08+01:00
 featured: true
 draft: false
 
@@ -29,7 +29,8 @@ projects: []
 ---
 
 Cari Amanti delle Palle di Neve,  
-la situazione attuale della neve non è delle migliori: ci sono chiazze di neve in giro, forse anche abbastanza per lanciare qualche palla di neve, ma si sta sciogliendo rapidamente.
+la situazione attuale della neve non è delle migliori: ci sono chiazze di neve in giro, forse anche abbastanza per lanciare qualche palla di neve,
+ma si sta sciogliendo rapidamente a causa delle alte temperature.
 Siamo comunque fiduciosi che nevicherà un po' tra il 2 e il 3 gennaio, o almeno così sembrano suggerire i [modelli meteorologici](https://www.meteoblue.com/it/tempo/previsioni/multimodel/gosaldo_italia_3175974).
 
 Per quanto riguarda i partecipanti, siamo felici di annunciare che abbiamo già più di 20 persone [iscritte](/it/register) all'evento!

@@ -7,8 +7,8 @@ summary: "It's not great, but we are hopeful! Also, lots of people registered!"
 authors: [af]
 tags: [2025]
 categories: [2025, update]
-date: 2024-12-29T10:05:08+01:00
-lastmod: 2024-12-29T10:05:08+01:00
+date: 2024-12-29T08:05:08+01:00
+lastmod: 2024-12-29T08:05:08+01:00
 featured: true
 draft: false
 
@@ -29,7 +29,7 @@ projects: []
 ---
 
 Dear Snowballers,  
-the current snow situation is not great: there are patches of snow around, maybe even enough to throw some snowballs, but it is melting fast.
+the current snow situation is not great: there are patches of snow around, maybe even enough to throw some snowballs, but it is melting fast due to the high temperatures.
 We are however hopeful that it'll snow a bit between the 2nd and the 3rd of January, or so the weather models seem to [suggest](https://www.meteoblue.com/en/weather/week/gosaldo_italy_3175974).
 
 In terms of participants, we are happy to announce that we have already more than 20 people registered for the event!
