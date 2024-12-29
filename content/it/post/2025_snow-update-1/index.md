@@ -3,7 +3,7 @@
 
 title: "Aggiornamento neve!"
 subtitle: "... non è tanta, ma siamo fiduciosi"
-summary: "La neve non è tanta, ma siamo fiduciosi! Abbiamo già un sacco di registrazioni!"
+summary: "La neve non è tanta, ma siamo fiduciosi! Abbiamo già 20 registrazioni!"
 authors: [af]
 tags: [2025]
 categories: [2025, update]
