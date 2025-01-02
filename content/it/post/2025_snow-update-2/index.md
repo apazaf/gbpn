@@ -2,8 +2,8 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Battaglia CONFERMATA!"
-subtitle: "Rimanete sintonizzati per utleriori aggiornamenti sullo stato della neve il 3 gennaio"
-summary: "Rimanete sintonizzati per utleriori aggiornamenti sullo stato della neve il 3 gennaio"
+subtitle: "Rimanete sintonizzati per ulteriori aggiornamenti sullo stato della neve il 3 gennaio"
+summary: "Rimanete sintonizzati per ulteriori aggiornamenti sullo stato della neve il 3 gennaio"
 authors: [af]
 tags: [2025]
 categories: [2025, update]
@@ -29,8 +29,8 @@ projects: []
 ---
 
 Cari Amanti delle Palle di Neve,  
-la battaglia è CONFERMATA!  
-Le previsioni meteo promettono *un po'* di neve per il 3 gennaio, e speriamo che sia sufficiente per una buona battaglia.
+la Battaglia è CONFERMATA!  
+Le previsioni meteo promettono *un po'* di neve tra il 2 ed il 3 gennaio, e speriamo che sia sufficiente per una buona battaglia.
 
 La mattina del 3 gennaio APAZAF effettuerà una ricognizione sul campo di battaglia e vi riferirà la decisione finale:
 anche nel peggiore dei casi (se non ha nevicato affatto) procederemo comunque con l'evento,

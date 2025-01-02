@@ -2,8 +2,8 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Battle CONFIRMED!"
-subtitle: "Stay tuned for snow updated on the 3rd of January"
-summary: "Stay tuned for snow updated on the 3rd of January"
+subtitle: "Stay tuned for snow updates on the 3rd of January"
+summary: "Stay tuned for snow updates on the 3rd of January"
 authors: [af]
 tags: [2025]
 categories: [2025, update]
@@ -29,8 +29,8 @@ projects: []
 ---
 
 Dear Snowballers,  
-the battle is CONFIRMED!  
-The weather forecast promises *some* snow on the 3rd of January, and we have hopes that it will be enough to have a good snowball fight.
+the Battle is CONFIRMED!  
+The weather forecast promises *some* snow between the 2nd and the 3rd of January, and we have hopes that it will be enough to have a good snowball fight.
 
 In the morning on the 3rd of January APAZAF will reconnoiter the battlefield and report back to you with the final decision:
 we have decided that in the worst case scenario (if it has not snowed at all) we'll still go forward with the event,
