@@ -9,7 +9,7 @@ Come ogni anno, la battaglia si svolgerà al [Bivacco Menegazzi](https://goo.gl/
 
 ## Dove e come ci troviamo?
 Vi state chiedendo come raggiungerci? Qui di sotto ci sono alcuni dettagli per aiutarvi a pianificare il viaggio.
-Ci incontriamo al **parcheggio gratuito del palasport di Belluno** ([46.144970N, 12.213757E](https://goo.gl/maps/NCjzBdygPNi8cSFFA)) la mattina del **4 gennaio 2025 alle 07:30**.
+Ci incontriamo al **parcheggio davanti alla chiesa di Mas di Sedico** ([46.1549N, 12.1284E](https://maps.app.goo.gl/nMUASUtqYFCnvLbbA)) la mattina del **4 gennaio 2025 alle 08:00**.
 Da lì in poi, organizzeremo il trasporto in auto e divideremo i partecipanti in gruppi in modo da minimizzare il numero delle stesse.
 Naturalmente è possibile anche recarsi in maniera autonoma al luogo della battaglia, o trovarsi a metà strada.
 
@@ -71,9 +71,9 @@ Ecco una breve lista di cose che potreste voler portare con voi sino al bivacco.
 ## Miscellanea
 
 #### Il pranzo di APAZAF
-Studi su campioni statisticamente irrilevanti di pallanevisti hanno dimostrato che una dieta a base di legumi e riso fornisce il 99,9% del fabbisogno giornaliero di energia da lancio. 
-Il restante 0,1% viene fornito da dosi massicce di cioccolato e schifezze da discount. 
-Per questo motivo, nelle precedenti edizioni, APAZAF si è premurato di preparare quantità più che sufficienti (e a volte a dir poco eccessive) di nutrienti bilanciati e gustosi sotto forma di risotti e fagioli alla messicana.   
+Studi su campioni statisticamente irrilevanti di pallanevisti hanno dimostrato che una dieta a base di legumi e riso fornisce il 99,9% del fabbisogno giornaliero di energia da lancio.
+Il restante 0,1% viene fornito da dosi massicce di cioccolato e schifezze da discount.
+Per questo motivo, nelle precedenti edizioni, APAZAF si è premurato di preparare quantità più che sufficienti (e a volte a dir poco eccessive) di nutrienti bilanciati e gustosi sotto forma di risotti e fagioli alla messicana.  
 Per andare incontro alle più disparate esigenze alimentari dei partecipanti, le forme previste dei suddetti cibi sono:
 
 - Risotto ai porri (gluten free, senza lattosio e vegano)
@@ -84,6 +84,13 @@ Per andare incontro alle più disparate esigenze alimentari dei partecipanti, le
 Poiché non c'è nulla di meglio di un pasto caldo dopo una battaglia al freddo e al gelo, le suddette cibarie vengono intrise di abbondante olio extra vergine di oliva e scaldate sulla stufa.
 Come da millenaria tradizione, salvo specifiche richieste, il menu verrà riproposto anche quest'anno.  
 Tutti i partecipanti possono ritenersi liberi di apportare un loro personale e gustoso contributo alle vivande, nonché di segnalare un eventuale disgusto per tutte le delizie sopra proposte.
+
+È possibile che, per via dell'imperscrutabile e imprevedibile genio culinario di APAZAF, il menu sarà diverso da quanto sopra descritto.
+Opzioni vegetariane e vegane saranno sempre disponibili.
+
+#### A che ora si torna?
+Tipicamente ci mettiamo in moto per il ritorno verso le 15:30/16:00, essendo che il Sole tramonta presto.
+Di solito siamo quindi nuovamente alle macchine prima delle 17:00.
 
 #### E se piove?
 Non piove, abbiamo accordi precisi con le autorità competenti. Se per una misteriosa congiunzione astrale dovesse piovere, faremo una battaglia di palle di pioggia.
