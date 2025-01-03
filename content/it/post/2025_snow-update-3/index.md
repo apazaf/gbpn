@@ -32,7 +32,13 @@ Cari Amanti delle Palle di Neve,
 i più illustri rappresentanti di APAZAF hanno oggi effettuato un sopralluogo al campo di gioco, trovandolo in condizioni decisamente mediocri: c'è poca neve, e quella presente è un po' ghiacciata.
 È però possibile scavare un pochino e raccogliere la neve per fare delle palle, quindi la Battaglia si farà comunque!
 
+Ecco lo stato della neve al Bivacco:  
+![Stato della neve al Bivacco](/media/post/2025-snow-status.jpg)
+
 Nel peggiore dei casi, invece che una GBPN, faremo una Gustosa Passeggiata al Bivacco Menegazzi, che è sempre un'ottima idea.
+
+La salita a piedi è comoda, con un po' di ghiaccio ma non troppo fastidioso.
+È impossibile utilizzare bob, sci o strumenti simili.
 
 Il luogo di ritrovo per la partenza è, come indicato nei [dettagli](it/details/), il **parcheggio davanti alla chiesa di Mas di Sedico** ([46.1549N, 12.1284E](https://maps.app.goo.gl/nMUASUtqYFCnvLbbA)), alle ore 8:00.
 Da lì formeremo delle macchine per raggiungere la partenza della camminata.

@@ -31,7 +31,13 @@ Dear Snowball Lovers,
 the most distinguished representatives of APAZAF conducted an inspection of the playing field today, finding it in decidedly mediocre conditions: there is little snow, and the snow present is a bit dry and icy.
 However, it is possible to dig a little and collect the snow to make snowballs, so the Battle will take place anyway!
 
+Here's the status of the snow cover at the Bivouac:  
+![Snow status at the Bivouac](/media/post/2025-snow-status.jpg)
+
 In the worst case, instead of a Great Snowball Fight, we will take a Gorgeous Walk to the Menegazzi Bivouac, which is always a great idea.
+
+The way up on foot is comfortable, with some ice but not too annoying.
+It is impossible to use a bobsleigh, skis or similar items.
 
 The meeting place for departure is, as indicated in the [details page](details/), the **parking lot in front of the church of Mas (Sedico)** ([46.1549N, 12.1284E](https://maps.app.goo.gl/nMUASUtqYFCnvLbbA)), at 8:00 AM.
 From there we will form cars to reach the start of the walk.
