@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 title: "Important organizational information for the 2025 Fight!"
-subtitle: "There is snow, even if it's little and not great, but we won't be discouraged!"
-summary: "There is snow, even if it's little and not great, but we won't be discouraged!"
+subtitle: "There is some snow, even if it isn't fresh, but we won't be discouraged!"
+summary: "There is some snow, even if it isn't fresh, but we won't be discouraged!"
 authors: [af]
 tags: [2025]
 categories: [2025, update]
@@ -28,13 +28,13 @@ projects: []
 ---
 
 Dear Snowball Lovers,  
-the most distinguished representatives of APAZAF conducted an inspection of the playing field today, finding it in decidedly mediocre conditions: there is little snow, and the snow present is a bit dry and icy.
+the most distinguished representatives of APAZAF conducted an inspection of the playing field today, finding it in decidedly mediocre conditions: there is little snow, and the that which is present is a bit dry and icy.
 However, it is possible to dig a little and collect the snow to make snowballs, so the Battle will take place anyway!
 
 Here's the status of the snow cover at the Bivouac:  
 ![Snow status at the Bivouac](/media/post/2025-snow-status.jpg)
 
-In the worst case, instead of a Great Snowball Fight, we will take a Gorgeous Walk to the Menegazzi Bivouac, which is always a great idea.
+In the worst case, instead of a Great Snowball Fight, we will take a Gorgeous Stroll with Fun, which is also a great idea.
 
 The way up on foot is comfortable, with some ice but not too annoying.
 It is impossible to use a bobsleigh, skis or similar items.
