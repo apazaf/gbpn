@@ -90,7 +90,7 @@ Opzioni vegetariane e vegane saranno sempre disponibili.
 
 #### A che ora si torna?
 Tipicamente ci mettiamo in moto per il ritorno verso le 15:30/16:00, essendo che il Sole tramonta presto.
-Di solito siamo quindi nuovamente alle macchine tra le 16:00 e le 17:00.
+Di solito siamo quindi nuovamente alle macchine prima delle 17:00.
 
 #### E se piove?
 Non piove, abbiamo accordi precisi con le autorità competenti. Se per una misteriosa congiunzione astrale dovesse piovere, faremo una battaglia di palle di pioggia.

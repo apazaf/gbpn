@@ -90,7 +90,7 @@ Vegetarian and Vegan options will always be available.
 
 #### What time do we return?
 Typically, we start heading back around 15:30/16:00, as the sun sets early.
-We usually get back to the cars between 16:00 and 17:00.
+We usually get back to the cars between before 17:00.
 
 #### What if it rains?
 It does not rain, we have precise agreements with the weatherman. If by some mysterious astral syzygy it happens, then we can have a rainball fight.
