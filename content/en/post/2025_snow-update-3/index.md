@@ -28,7 +28,7 @@ projects: []
 ---
 
 Dear Snowball Lovers,  
-the most distinguished representatives of APAZAF conducted an inspection of the playing field today, finding it in decidedly mediocre conditions: there is little snow, and the that which is present is a bit dry and icy.
+the most distinguished representatives of APAZAF conducted an inspection of the playing field today, finding it in decidedly mediocre conditions: there is little snow, and that which is present is a bit dry and icy.
 However, it is possible to dig a little and collect the snow to make snowballs, so the Battle will take place anyway!
 
 Here's the status of the snow cover at the Bivouac:  
@@ -39,7 +39,7 @@ In the worst case, instead of a Great Snowball Fight, we will take a Gorgeous St
 The way up on foot is comfortable, with some ice but not too annoying.
 It is impossible to use a bobsleigh, skis or similar items.
 
-The meeting place for departure is, as indicated in the [details page](details/), the **parking lot in front of the church of Mas (Sedico)** ([46.1549N, 12.1284E](https://maps.app.goo.gl/nMUASUtqYFCnvLbbA)), at 8:00 AM.
+The meeting place for departure is, as indicated in the [details page](/details/), the **parking lot in front of the church of Mas (Sedico)** ([46.1549N, 12.1284E](https://maps.app.goo.gl/nMUASUtqYFCnvLbbA)), at 8:00 AM.
 From there we will form cars to reach the start of the walk.
 
 Please, be punctual!

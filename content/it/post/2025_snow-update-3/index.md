@@ -40,7 +40,7 @@ Nel peggiore dei casi, invece che una GBPN, faremo una Gustosa Passeggiata al Bi
 La salita a piedi è comoda, con un po' di ghiaccio ma non troppo fastidioso.
 È impossibile utilizzare bob, sci o strumenti simili.
 
-Il luogo di ritrovo per la partenza è, come indicato nei [dettagli](it/details/), il **parcheggio davanti alla chiesa di Mas di Sedico** ([46.1549N, 12.1284E](https://maps.app.goo.gl/nMUASUtqYFCnvLbbA)), alle ore 8:00.
+Il luogo di ritrovo per la partenza è, come indicato nei [dettagli](/it/details/), il **parcheggio davanti alla chiesa di Mas di Sedico** ([46.1549N, 12.1284E](https://maps.app.goo.gl/nMUASUtqYFCnvLbbA)), alle ore 8:00.
 Da lì formeremo delle macchine per raggiungere la partenza della camminata.
 
 Siate puntuali!
