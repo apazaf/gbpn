@@ -85,6 +85,9 @@ Studies carried out on statistically irrelevant groups of snowballers have highl
 Considered the fact that there's nothing better than a warm meal after a cold and hard battle, said provisions are soaked with plentiful extra virgin olive oil and heated on the stove. In the absence of specific requests, as per the Battle's millenary tradition, this menu will be offered again.  
 All participants are of course free to contribute with their own delicious food to the Battle's lunch, and also to highlight a general loathing for all the aforementioned delicacies.
 
+It is possible that, subject to APAZAF's cooking genius, the menu will be different from what is described above.
+Vegetarian and Vegan options will always be available.
+
 #### What time do we return?
 Typically, we start heading back around 15:30/16:00, as the sun sets early.
 We usually get back to the cars between 16:00 and 17:00.

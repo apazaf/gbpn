@@ -85,6 +85,9 @@ Poiché non c'è nulla di meglio di un pasto caldo dopo una battaglia al freddo 
 Come da millenaria tradizione, salvo specifiche richieste, il menu verrà riproposto anche quest'anno.  
 Tutti i partecipanti possono ritenersi liberi di apportare un loro personale e gustoso contributo alle vivande, nonché di segnalare un eventuale disgusto per tutte le delizie sopra proposte.
 
+È possibile che, per via dell'imperscrutabile e imprevedibile genio culinario di APAZAF, il menu sarà diverso da quanto sopra descritto.
+Opzioni vegetariane e vegane saranno sempre disponibili.
+
 #### A che ora si torna?
 Tipicamente ci mettiamo in moto per il ritorno verso le 15:30/16:00, essendo che il Sole tramonta presto.
 Di solito siamo quindi nuovamente alle macchine tra le 16:00 e le 17:00.
