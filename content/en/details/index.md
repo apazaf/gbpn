@@ -6,12 +6,12 @@ title = "What's this?"
 
 As is traditional, APAZAF organises a friendly snowball fight (Grande Battaglia di Palle di Neve in italian, in short GBPN) at the beginning of the new year.
 The fight follows a simple set of [rules](/rules), in the "capture the flag" style.  
-Like every year, the fight takes place at the [Bivacco Menegazzi](https://goo.gl/maps/CRMbn2kRX38G78UF9), a beautiful bivouac which has the desiderable characteristics of being both easy to reach and positioned at an elevation of 1737 m, where snow is often plentiful.  
+Like every year, the fight takes place at the [Bivacco Menegazzi](https://goo.gl/maps/CRMbn2kRX38G78UF9), a beautiful bivouac which has the desirable characteristics of being both easy to reach and positioned at an elevation of 1737 m, where snow is often plentiful.  
 It's pretty simple: we go there, we have some fun, we eat a warm lunch, we have some more fun and we go back home, happy and tired.
 
 ## Where and when do we meet?
 Wondering how to get to us? Here are some organisational details to help with planning your trip!  
-We will meet at **Belluno's sporting centre free parking** ([46.144970N, 12.213757E](https://goo.gl/maps/NCjzBdygPNi8cSFFA)) the morning of the **4th of January, 2025, at 07:30**.
+We will meet at the **parking lot in front of the church of Mas (Sedico)** ([46.1549N, 12.1284E](https://maps.app.goo.gl/nMUASUtqYFCnvLbbA)) on the morning of the **4th of January, 2025, at 08:00**.
 From there on, we will organise transportation by car and separate the participants in groups, in order to minimise the number of vehicles.
 Of course, if you want to autonomously get to the battle site or meet half way, that is fine too!
 
@@ -85,7 +85,11 @@ Studies carried out on statistically irrelevant groups of snowballers have highl
 Considered the fact that there's nothing better than a warm meal after a cold and hard battle, said provisions are soaked with plentiful extra virgin olive oil and heated on the stove. In the absence of specific requests, as per the Battle's millenary tradition, this menu will be offered again.  
 All participants are of course free to contribute with their own delicious food to the Battle's lunch, and also to highlight a general loathing for all the aforementioned delicacies.
 
-#### What happens if it rains?
+#### What time do we return?
+Typically, we start heading back around 15:30/16:00, as the sun sets early.
+We usually get back to the cars between 16:00 and 17:00.
+
+#### What if it rains?
 It does not rain, we have precise agreements with the weatherman. If by some mysterious astral syzygy it happens, then we can have a rainball fight.
 
 #### Price
