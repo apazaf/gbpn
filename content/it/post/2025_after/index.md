@@ -29,7 +29,11 @@ projects: []
 ---
 
 Cari amici delle palle di neve,
-anche la Battaglia 2025 è passata, ed è stata un grande successo!
+anche la Battaglia 2025 è conclusa!
+Non abbiamo avuto la neve che speravamo, ma ci siamo divertiti lo stesso:
+chi con una ardita passeggiata, chi sperimentando il modo più scemo di scivolare sulla neve ghiacciata.
+
+Soprattutto, abbiamo condiviso con gioia il leggendario rancio APAZAF, che è stato spazzolato con grande soddisfazione di tutti i partecipanti.
 
 Un grande grazie a tutti i partecipanti: come sempre avete reso una splendida giornata ancora più memorabile!  
 APAZAF vi ringrazia caldamente per la vostra partecipazione ed il supporto: significa tantissimo per noi.

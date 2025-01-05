@@ -29,7 +29,12 @@ projects: []
 ---
 
 Dear friends of snowballs,
-the 2025 Battle has also passed, and it was a great success!
+the 2025 Battle is no more!
+
+We didn't get the snow we hoped for, but we had fun nonetheless:
+some with a daring walk, others experimenting with the silliest ways to slide on the icy snow.
+
+Above all, we joyfully shared the legendary APAZAF meal, which was devoured with great satisfaction by all participants.
 
 A big thank you to all the participants: as always, you made a wonderful day even more memorable!  
 APAZAF warmly thanks you for your participation and support: it means a lot to us.
