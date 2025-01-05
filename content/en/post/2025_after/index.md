@@ -41,7 +41,7 @@ APAZAF warmly thanks you for your participation and support: it means a lot to u
 
 APAZAF cannot thank you enough for your participation and your support, it means the world to us!
 
-[Here](/galleries/2024) you can find some photos of this edition; if you have some to share, don't hesitate to [contact us](/contact)!
+[Here](/galleries/2025) you can find some photos of this edition; if you have some to share, don't hesitate to [contact us](/contact)!
 
 ## Report, suggestions and feedback
 
