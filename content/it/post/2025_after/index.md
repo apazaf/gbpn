@@ -28,8 +28,9 @@ image:
 projects: []
 ---
 
-Cari amici delle palle di neve,
+Cari amici delle palle di neve,  
 anche la Battaglia 2025 è conclusa!
+
 Non abbiamo avuto la neve che speravamo, ma ci siamo divertiti lo stesso:
 chi con una ardita passeggiata, chi sperimentando il modo più scemo di scivolare sulla neve ghiacciata.
 

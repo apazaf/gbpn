@@ -28,7 +28,7 @@ image:
 projects: []
 ---
 
-Dear friends of snowballs,
+Dear friends of snowballs,  
 the 2025 Battle is no more!
 
 We didn't get the snow we hoped for, but we had fun nonetheless:
