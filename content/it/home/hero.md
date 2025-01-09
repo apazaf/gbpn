@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 5  # Order that this section will appear.
 
 title = """**La Grande Battaglia di Palle di Neve 2025**
-si terrà sabato 4 gennaio!
+si è tenuta sabato 4 gennaio!
 """
 
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
@@ -38,23 +38,23 @@ si terrà sabato 4 gennaio!
 # Call to action links (optional).
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
-[cta]
-  url = "/it/register"
-  label = "Iscriviti!"
-  icon_pack = "fas"
-  icon = "snowflake"
-  
-[cta_alt]
-  url = "/it/details"
-  label = "Scopri di più"
-  
 # [cta]
-#   url = "/galleries/2024/"
-#   label = "Guarda le foto e i video!"
-
+#   url = "/it/register"
+#   label = "Iscriviti!"
+#   icon_pack = "fas"
+#   icon = "snowflake"
+  
 # [cta_alt]
-#   url = "/post/2024_after"
-#   label = "Leggi il resoconto"
+#   url = "/it/details"
+#   label = "Scopri di più"
+  
+[cta]
+  url = "/it/galleries/2025/"
+  label = "Guarda le foto!"
+
+[cta_alt]
+  url = "/it/post/2025_after"
+  label = "Leggi il resoconto"
 +++
 
 Come da tradizione millenaria, l'edizione 2025 si svolgerà al [Bivacco Menegazzi](https://goo.gl/maps/CRMbn2kRX38G78UF9), nel cuore delle Dolomiti, all'inizio dell'anno nuovo.

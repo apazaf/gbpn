@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 5  # Order that this section will appear.
 
 title = """**The Great Snowball Fight 2025**
-will take place on Saturday, 4 January!
+took place on Saturday, 4 January!
 """
 
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
@@ -38,23 +38,23 @@ will take place on Saturday, 4 January!
 # Call to action links (optional).
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
-[cta]
-  url = "/register"
-  label = "Register!"
-  icon_pack = "fas"
-  icon = "snowflake"
-
-[cta_alt]
-  url = "/details"
-  label = "Learn more"
-  
 # [cta]
-#   url = "/galleries/2024/"
-#   label = "Check out the photos and videos!"
+#   url = "/register"
+#   label = "Register!"
+#   icon_pack = "fas"
+#   icon = "snowflake"
 
 # [cta_alt]
-#   url = "/post/2024_after"
-#   label = "Read the report"
+#   url = "/details"
+#   label = "Learn more"
+  
+[cta]
+  url = "/galleries/2025/"
+  label = "Check out the photos!"
+
+[cta_alt]
+  url = "/post/2025_after"
+  label = "Read the report"
 +++
 
 Following its millenary tradition, the 2025 edition will take place at the [Bivacco Menegazzi](https://goo.gl/maps/CRMbn2kRX38G78UF9), in the heart of the Dolomites, at the beginning of the new year.
