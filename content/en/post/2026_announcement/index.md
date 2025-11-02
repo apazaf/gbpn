@@ -7,8 +7,8 @@ summary: "Mark Saturday, 3 January 2026 on your calendars!"
 authors: [af]
 tags: [2026]
 categories: [2026, announcement]
-date: 2025-11-02T17:00:00+01:00
-lastmod: 2025-11-02T17:00:00+01:00
+date: 2025-11-01T00:00:00+01:00
+lastmod: 2025-11-01T00:00:00+01:00
 featured: false
 draft: false
 
