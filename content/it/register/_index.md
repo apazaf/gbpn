@@ -17,8 +17,10 @@ subtitle = "Partecipa alla Battaglia!"
 
 Completate il form sottostante per iscrivervi alla Battaglia!
 
+Non sei psicologicamente pronto a partecipare alla battaglia? Dai un'occhiata alla [pagina dei dettagli](/it/details/) per maggiori informazioni sull'evento.
+
 L'iscrizione non è vincolante: ti consigliamo di inscriverti anche se vuoi solo tenerti informato!
 Registrandoti, accetti che APAZAF ti mandi occasionali aggiornamenti via mail riguardo alla GBPN.
 Puoi disiscriverti in qualsiasi momento [scrivendo ad APAZAF](/it/contact/).
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfricSb6YoHWvWHszEgju4W3LyTZ2fGF6bGL_5-yS5TlFHoZw/viewform?embedded=true" width="100%" height="1606" frameborder="0" marginheight="0" marginwidth="0">Caricamento…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScgxuqXJ_9P7nJJGgh8PCBUPZjSaoxElJ991tDNm406dsQCDA/viewform?usp=dialog" width="100%" height="1606" frameborder="0" marginheight="0" marginwidth="0">Caricamento…</iframe>
