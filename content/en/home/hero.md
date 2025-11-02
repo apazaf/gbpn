@@ -57,4 +57,4 @@ will take place on Saturday, 3 January!
   label = "Read the report of the 2025 edition"
 +++
 
-Following its millenary tradition, the 2025 edition will take place at the [Bivacco Menegazzi](https://goo.gl/maps/CRMbn2kRX38G78UF9), in the heart of the Dolomites, at the beginning of the new year.
+Following its millenary tradition, the 2026 edition will take place at the [Bivacco Menegazzi](https://goo.gl/maps/CRMbn2kRX38G78UF9), in the heart of the Dolomites, at the beginning of the new year.

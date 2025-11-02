@@ -57,4 +57,4 @@ si terrà sabato 3 gennaio!
   label = "Leggi il resoconto dell'edizione 2025"
 +++
 
-Come da tradizione millenaria, l'edizione 2025 si svolgerà al [Bivacco Menegazzi](https://goo.gl/maps/CRMbn2kRX38G78UF9), nel cuore delle Dolomiti, all'inizio dell'anno nuovo.
+Come da tradizione millenaria, l'edizione 2026 si svolgerà al [Bivacco Menegazzi](https://goo.gl/maps/CRMbn2kRX38G78UF9), nel cuore delle Dolomiti, all'inizio dell'anno nuovo.
