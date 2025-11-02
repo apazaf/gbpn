@@ -40,14 +40,12 @@ Stay tuned for all the frosty updates by following our [news](/post) section or 
 
 In the meantime, start your winter training regimen:
 
-- Practice your throws with any spherical object
+- Practice your throws with any spherical object (APAZAF disclaims any responsibility for damage to persons or property)
 - Build up your snow fort engineering skills  
-- Stock up on hot chocolate for post-battle celebrations
+- Stock up on your best hot chocolate for post-battle celebrations
 - Most importantly, pray to the snow gods for perfect packing snow! 🙏
 
 Remember: no yellow snow, no ice chunks, and definitely no rocks disguised as snowballs. We're warriors, not barbarians!
-
-Let the epic countdown to frozen glory begin!
 
 Snow-fully yours,
 The APAZAF Team ⛄

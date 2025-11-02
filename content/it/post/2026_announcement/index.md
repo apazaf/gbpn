@@ -40,14 +40,12 @@ Rimanete sintonizzati per tutti gli aggiornamenti ghiacciati seguendo la nostra 
 
 Nel frattempo, iniziate il vostro regime di allenamento invernale:
 
-- Praticate i vostri lanci con qualsiasi oggetto sferico
-- Sviluppate le vostre competenze ingegneristiche per i forti di neve
-- Fate scorta di cioccolata calda per i festeggiamenti post-battaglia
-- Soprattutto, pregate gli dei della neve per una neve perfetta da impacchettare! 🙏
+- Praticate i vostri lanci con qualsiasi oggetto sferico (NB: APAZAF declina ogni responsabilità per danni a persone o cose)
+- Sviluppate le vostre competenze ingegneristiche per le fortificazioni di neve
+- Fate scorta della vostra migliore cioccolata calda per i festeggiamenti post-battaglia
+- Soprattutto, pregate gli dei della neve per una neve perfetta da pallare! 🙏
 
 Ricordate: niente neve gialla, niente pezzi di ghiaccio, e assolutamente niente sassi travestiti da palle di neve. Siamo guerrieri, non barbari!
-
-Che abbia inizio il conto alla rovescia epico verso la gloria ghiacciata!
 
 Nevosamente vostri,
 Il Team APAZAF ⛄
