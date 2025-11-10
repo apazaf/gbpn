@@ -15,7 +15,7 @@ subtitle = "Partecipa alla Battaglia!"
 
 +++
 
-Completate il form sottostante per iscrivervi alla Battaglia!
+Completa il form sottostante per iscriverti alla Battaglia!
 
 Non sei psicologicamente pronto a partecipare alla battaglia? Dai un'occhiata alla [pagina dei dettagli](/it/details/) per maggiori informazioni sull'evento.
 
