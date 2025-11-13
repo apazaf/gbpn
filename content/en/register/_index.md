@@ -17,7 +17,9 @@ subtitle = "Join the battle!"
 
 Please complete the form below to register to the Battle!
 
+Not ready to join the battle yet? Check out the [details page](/details) for more information about the event.
+
 Don't worry, the registration is not binding: we suggest to register even if you only want to keep up to date with GBPN news. By registering, you allow APAZAF to send you updates via email regarding the GBPN. You can unsubscribe anytime by [contacting APAZAF](/contact).
 
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfricSb6YoHWvWHszEgju4W3LyTZ2fGF6bGL_5-yS5TlFHoZw/viewform?embedded=true" width="100%" height="1606" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScgxuqXJ_9P7nJJGgh8PCBUPZjSaoxElJ991tDNm406dsQCDA/viewform?usp=dialog" width="100%" height="1606" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>

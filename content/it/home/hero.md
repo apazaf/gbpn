@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 5  # Order that this section will appear.
 
-title = """**La Grande Battaglia di Palle di Neve 2025**
-si è tenuta sabato 4 gennaio!
+title = """**La Grande Battaglia di Palle di Neve 2026**
+si terrà sabato 3 gennaio!
 """
 
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
@@ -49,12 +49,12 @@ si è tenuta sabato 4 gennaio!
 #   label = "Scopri di più"
   
 [cta]
-  url = "/it/galleries/2025/"
-  label = "Guarda le foto!"
+  url = "/it/register/"
+  label = "Registrati!"
 
 [cta_alt]
   url = "/it/post/2025_after"
-  label = "Leggi il resoconto"
+  label = "Leggi il resoconto dell'edizione 2025"
 +++
 
-Come da tradizione millenaria, l'edizione 2025 si svolgerà al [Bivacco Menegazzi](https://goo.gl/maps/CRMbn2kRX38G78UF9), nel cuore delle Dolomiti, all'inizio dell'anno nuovo.
+Come da tradizione millenaria, l'edizione 2026 si svolgerà al [Bivacco Menegazzi](https://goo.gl/maps/CRMbn2kRX38G78UF9), nel cuore delle Dolomiti, all'inizio dell'anno nuovo.

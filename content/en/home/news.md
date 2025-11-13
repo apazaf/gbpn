@@ -25,7 +25,7 @@ subtitle = ""
 
   # Filter posts by a taxonomy term.
   [content.filters]
-    tag = "2025"
+    tag = "2026"
     category = ""
     publication_type = ""
     exclude_featured = false
