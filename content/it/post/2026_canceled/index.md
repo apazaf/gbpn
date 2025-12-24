@@ -33,7 +33,7 @@ Cari palladinevisti,
 Per motivi personali, siamo costretti ad annunciare con rammarico che **la Grande Battaglia di Palle di Neve 2026 è CANCELLATA**.
 💔❄️
 
-Questa decisione non è stata presa alla leggera. Sappiamo quanto questo evento significhi per tutti voi coraggiosi palladinevisti,
+Non è una decisione che abbiamo preso su due piedi, anzi. Sappiamo quanto questo evento significhi per tutti voi coraggiosi palladinevisti,
 che avete già allenato le braccia al lancio e perfezionato le tecniche di costruzione di fortini.
 Condividiamo profondamente la vostra delusione, ma non abbattetevi, compagni combattenti!
 La Grande Battaglia di Palle di Neve tornerà nel 2027!
