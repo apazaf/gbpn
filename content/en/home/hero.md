@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 5  # Order that this section will appear.
 
 title = """**The Great Snowball Fight 2026**
-will take place on Saturday, 3 January!
+is cancelled! 😭 See you in 2027!
 """
 
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
@@ -49,12 +49,12 @@ will take place on Saturday, 3 January!
 #   label = "Learn more"
   
 [cta]
-  url = "/register/"
-  label = "Register!"
+  url = "/post/2026_canceled"
+  label = "Read cancellation details"
 
 [cta_alt]
   url = "/post/2025_after"
   label = "Read the report of the 2025 edition"
 +++
 
-Following its millenary tradition, the 2026 edition will take place at the [Bivacco Menegazzi](https://goo.gl/maps/CRMbn2kRX38G78UF9), in the heart of the Dolomites, at the beginning of the new year.
+Unfortunately, the 2026 edition has been cancelled. But don't lose hope - the Great Snowball Fight will return in 2027 at the [Bivacco Menegazzi](https://goo.gl/maps/CRMbn2kRX38G78UF9), in the heart of the Dolomites!
