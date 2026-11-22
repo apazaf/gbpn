@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 5  # Order that this section will appear.
 
-title = """**La Grande Battaglia di Palle di Neve 2026**
-è cancellata! 😭 Ci vediamo nel 2027!
+title = """**La Grande Battaglia di Palle di Neve 2027**
+si terrà sabato 6 febbraio!
 """
 
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
@@ -49,12 +49,12 @@ title = """**La Grande Battaglia di Palle di Neve 2026**
 #   label = "Scopri di più"
   
 [cta]
-  url = "/it/post/2026_canceled"
-  label = "Leggi i tristi dettagli"
+  url = "/it/register/"
+  label = "Registrati!"
 
 [cta_alt]
   url = "/it/post/2025_after"
   label = "Leggi il resoconto dell'edizione 2025"
 +++
 
-Purtroppo, l'edizione 2026 è stata cancellata. Ma non perdete la speranza - la Grande Battaglia di Palle di Neve tornerà nel 2027 al [Bivacco Menegazzi](https://goo.gl/maps/CRMbn2kRX38G78UF9), nel cuore delle Dolomiti!
+Come da tradizione millenaria, l'edizione 2027 si svolgerà al [Bivacco Menegazzi](https://goo.gl/maps/CRMbn2kRX38G78UF9), nel cuore delle Dolomiti. Quest'anno ci spostiamo a febbraio, quando c'è più neve!

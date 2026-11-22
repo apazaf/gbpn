@@ -4,14 +4,14 @@ title = "What's this?"
 +++
 
 
-As is traditional, APAZAF organises a friendly snowball fight (Grande Battaglia di Palle di Neve in italian, in short GBPN) at the beginning of the new year.
+As is traditional, APAZAF organises a friendly snowball fight (Grande Battaglia di Palle di Neve in italian, in short GBPN) every winter.
 The fight follows a simple set of [rules](/rules), in the "capture the flag" style.  
 Like every year, the fight takes place at the [Bivacco Menegazzi](https://goo.gl/maps/CRMbn2kRX38G78UF9), a beautiful bivouac which has the desirable characteristics of being both easy to reach and positioned at an elevation of 1737 m, where snow is often plentiful.  
 It's pretty simple: we go there, we have some fun, we eat a warm lunch, we have some more fun and we go back home, happy and tired.
 
 ## Where and when do we meet?
 Wondering how to get to us? Here are some organisational details to help with planning your trip!  
-We will meet at the **parking lot in front of the church of Mas (Sedico)** ([46.1549N, 12.1284E](https://maps.app.goo.gl/nMUASUtqYFCnvLbbA)) on the morning of the **3rd of January, 2026, at 08:00**.
+We will meet at the **parking lot in front of the church of Mas (Sedico)** ([46.1549N, 12.1284E](https://maps.app.goo.gl/nMUASUtqYFCnvLbbA)) on the morning of the **6th of February, 2027, at 08:00**.
 From there on, we will organise transportation by car and separate the participants in groups, in order to minimise the number of vehicles.
 Of course, if you want to autonomously get to the battle site or meet half way, that is fine too!
 

@@ -2,14 +2,14 @@
 share= false
 title = "Cos'è?"
 +++
-Come da tradizione, APAZAF organizza una amichevole Grande Battaglia di Palle di Neve (GBPN) all'inizio dell'anno nuovo.
+Come da tradizione, APAZAF organizza una amichevole Grande Battaglia di Palle di Neve (GBPN) ogni inverno.
 La battaglia procede secondo delle semplici [regole](/it/rules), alla base è "cattura la bandiera".
 Come ogni anno, la battaglia si svolgerà al [Bivacco Menegazzi](https://goo.gl/maps/CRMbn2kRX38G78UF9), un bucolico bivacco con tutte le caratteristiche desiderabili: è al contempo facile da raggiungere e sufficientemente in alto (1737 m s.l.m.) da essere ben fornito di neve.
 È molto semplice: andiamo al bivacco, ci divertiamo un po', mangiamo un pranzo caldo, ci divertiamo un altro po' e torniamo a casa, stanchi e felici.
 
 ## Dove e come ci troviamo?
 Vi state chiedendo come raggiungerci? Qui di sotto ci sono alcuni dettagli per aiutarvi a pianificare il viaggio.
-Ci incontriamo al **parcheggio davanti alla chiesa di Mas di Sedico** ([46.1549N, 12.1284E](https://maps.app.goo.gl/nMUASUtqYFCnvLbbA)) la mattina del **3 gennaio 2026 alle 08:00**.
+Ci incontriamo al **parcheggio davanti alla chiesa di Mas di Sedico** ([46.1549N, 12.1284E](https://maps.app.goo.gl/nMUASUtqYFCnvLbbA)) la mattina del **6 febbraio 2027 alle 08:00**.
 Da lì in poi, organizzeremo il trasporto in auto e divideremo i partecipanti in gruppi in modo da minimizzare il numero delle stesse.
 Naturalmente è possibile anche recarsi in maniera autonoma al luogo della battaglia, o trovarsi a metà strada.
 
